@@ -1,2 +1,2 @@
 # BT8810
-Proprietary PLD design on gf180mcu
+PLD design on gf180mcu
